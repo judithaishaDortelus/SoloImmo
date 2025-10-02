@@ -1,5 +1,5 @@
 # SoloImmo
-Application console en Python simulant une plateforme immobilière. Elle permet la gestion des comptes utilisateurs (inscription, connexion, deconnexion, mots de passe hachés) ainsi que l'ajout, la consultation et le filtrage des propriétés. Projet réalisé dans le cadre d'un projet universitaire à l'Université Laval.
+Application console en Python simulant une plateforme immobilière. Elle permet la gestion des comptes utilisateurs (inscription, connexion, deconnexion, mots de passe hachés) ainsi que l'ajout, la consultation et le filtrage des propriétés. Réalisé dans le cadre d'un cours à l'Université Laval.
 
 ### Principales fonctionnalités:
 - Création et authentification sécurisé des utilisateurs
