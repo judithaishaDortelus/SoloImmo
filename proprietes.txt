@@ -1,0 +1,8 @@
+prix,ville,type,chambres,salles_de_bains
+999999999,Montréal,Condo,6,3
+77777777,Montréal,Loft,3,3
+123999,Québec,Maison,3,2
+888000,Ottawa,Appartement,2,1
+999333999333,Toronto,Appartement,1,2
+888111999000,Toronto,Condo,3,2
+8887772,Montréal,Condo,3,2
