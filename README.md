@@ -30,3 +30,6 @@ L'utilisateur peut consulter, lister et filtrer à travers les propriétés qui 
 #### Déconnexion et quitter
 Lorsque l'utilisateur se déconnecte, les informations reliées à son compte sont conservés. Les données sont conservés entre les sessions.
 <img width="609" height="396" alt="07" src="https://github.com/user-attachments/assets/1868ce1b-9f8a-47d2-b93a-1efd7a97156c" />
+
+
+<!-- Cette application démontre une compréhension approfondie des principes de base en sécurité et en gestion de données. -->
